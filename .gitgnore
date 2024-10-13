@@ -1,0 +1,4 @@
+# .gitignore
+*.tfstate
+*.zip
+*.pem
